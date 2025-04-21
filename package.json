@@ -2,7 +2,7 @@
   "name": "typing",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "type.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node type.js"
